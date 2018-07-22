@@ -1,8 +1,8 @@
-This repository contains all the documentation of the Duckietown project.
+该存储库包含Duckietown项目的所有文档。
 
 
-For installation instructions, see [the chapter "Contributing to the documentation"
-in the current version of the Duckiebook][duckiebook].
+有关安装说明，请参阅[“文档贡献”一章）
+在当前版本的Duckiebook] [duckiebook]。
 
 
 [duckiebook]:  https://docs.duckietown.org/duckumentation/out/
